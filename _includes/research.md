@@ -16,4 +16,4 @@
   <li><autocolor>"Subgoal Identification in Sequential Decision Making under Partial Observability", Scientific and Technological Research Council of Turkey (TÜBİTAK), Grant No: 215E250, 2016 - 2018, Ankara, Turkey</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;"><a href="../_includes/publications.md">Publications</a></h4>
+<h4 style="margin:0 10px 0;"><a href="./publications.md">Publications</a></h4>
