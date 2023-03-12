@@ -18,4 +18,4 @@
 
 <h4 style="margin:0 10px 0;">Publications</h4>
 
-{% include_relative _includes/publications.md %}
+<script src="https://bibbase.org/show?bib=https://gliese876b.github.io/assets/publications.bib&jsonp=1"></script>
