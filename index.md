@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor at İzmir University of Economics.
+I am currently an Assistant Professor at [a link](https://github.com/user/repo/blob/branch/other_file.md) İzmir University of Economics.
 
 ## Research Interests
 
