@@ -8,6 +8,14 @@
   <li><autocolor>Reinforcement Learning</autocolor></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Projects</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor>"Forming Useful Memory in Partially Observable Reinforcement Learning", Scientific and Technological Research Council of Turkey (TUBITAK), Grant No: 120E427, 2021 - 2023, İzmir, Turkey</autocolor></li>
+  <li><autocolor>"YÖK Program Ve Kontenjan Yonetim Sistemi (YÖK Pkys)", Scientific and Technological Research Council of Turkey (TUBITAK), Grant No: 115G086, 2018 - 2019, Ankara, Turkey</autocolor></li>
+  <li><autocolor>"Subgoal Identification in Sequential Decision Making under Partial Observability", Scientific and Technological Research Council of Turkey (TUBITAK), Grant No: 215E250, 2016 - 2018, Ankara, Turkey</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Publications</h4>
 
 {% include_relative _includes/publications.md %}
