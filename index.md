@@ -13,4 +13,4 @@ I am currently an Assistant Professor at [İzmir University of Economics](https:
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/research.md %}
