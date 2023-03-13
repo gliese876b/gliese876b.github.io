@@ -1,5 +1,7 @@
 ## Research
 
+I work on improving the quality and speed of reinforcement learning in fully and partially observable environments. My work extends to intrinsically motivated agents, multi-agent problems and application of RL. I am also interested in data science.
+
 <h4 style="margin:0 10px 0;">Research Interests</h4>
 
 <ul style="margin:0 0 5px;">
