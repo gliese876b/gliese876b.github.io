@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a post doctoral researcher in the [Autonomous Agents Research Group]([https://www.ieu.edu.tr/en](https://agents.inf.ed.ac.uk/people/)) at the University of Edinburgh.
+I am currently a post doctoral researcher in the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/people/) at the University of Edinburgh.
 
 I also hold my position as an Assistant Professor at [İzmir University of Economics](https://www.ieu.edu.tr/en).
 
