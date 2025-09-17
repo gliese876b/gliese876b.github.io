@@ -12,6 +12,8 @@ I have received my B.S., M.S. and Ph.D. degrees from [the Department of Computer
 - **[Feb. 2023]** Our paper about self memory management with intrinsic motivation is published online.
 - **[Dec. 2022]** Our paper on behavior analysis of İzmir residents is published online.
 
+{% include_relative _includes/schedule.md %}
+
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/academic_services.md %}

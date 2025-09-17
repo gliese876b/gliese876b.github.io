@@ -8,11 +8,13 @@ I work on improving the quality and speed of reinforcement learning in fully and
   <li><autocolor>Data Science</autocolor></li>
   <li><autocolor>Machine Learning</autocolor></li>
   <li><autocolor>Reinforcement Learning</autocolor></li>
+  <li><autocolor>Multi Agent Reinforcement Learning</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Projects</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>"Solving Asymmetric Social Dilemmas in Multi-Agent Reinforcement Learning with Local Information", Scientific and Technological Research Council of Turkey (TÜBİTAK), International Postdoctoral Research Fellowship Program for Turkish Citizens, 2024 - 2025, Edinburgh, United Kingdom</autocolor></li>
   <li><autocolor>"Forming Useful Memory in Partially Observable Reinforcement Learning", Scientific and Technological Research Council of Turkey (TÜBİTAK), Grant No: 120E427, 2021 - 2023, İzmir, Turkey</autocolor></li>
   <li><autocolor>"YÖK Program Ve Kontenjan Yonetim Sistemi (YÖK Pkys)", Scientific and Technological Research Council of Turkey (TÜBİTAK), Grant No: 115G086, 2018 - 2019, Ankara, Turkey</autocolor></li>
   <li><autocolor>"Subgoal Identification in Sequential Decision Making under Partial Observability", Scientific and Technological Research Council of Turkey (TÜBİTAK), Grant No: 215E250, 2016 - 2018, Ankara, Turkey</autocolor></li>
