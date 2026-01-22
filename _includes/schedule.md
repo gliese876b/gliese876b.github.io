@@ -32,16 +32,16 @@
       <td style="border:1px solid #ddd; padding:6px;">10:20 - 11:05</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-2 & CE 315-2 (Lab)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">11:15 - 12:00</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-2 & CE 315-2 (Lab)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
@@ -54,41 +54,41 @@
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">13:05 - 13:50</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 477-1</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Tural Haciyev (MSc)</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-1 & CE 315-1 (Lab)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">14:00 - 14:45</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 477-1</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-1 & CE 315-1 (Lab)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Berkay Eren (MSc)</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">14:55 - 15:40</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 477-1</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-1 & CE 315-1</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-2 & CE 315-2</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">15:50 - 16:35</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-1 & CE 315-1</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-2 & CE 315-2</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">16:45 - 17:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-1 & CE 315-1</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE 308-2 & CE 315-2</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
