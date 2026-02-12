@@ -17,23 +17,23 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
+      <td style="border:1px solid #ddd; padding:6px;">SE116(L)</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">09:25 - 10:10</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
+      <td style="border:1px solid #ddd; padding:6px;">SE116(L)</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">10:20 - 11:05</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@
       <td style="border:1px solid #ddd; padding:6px;">14:55 - 15:40</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">SE116</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
@@ -80,7 +80,7 @@
       <td style="border:1px solid #ddd; padding:6px;">15:50 - 16:35</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">SE116</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
@@ -92,5 +92,13 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:6px;">18:35 - 21:10</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CE533</td>
+    </tr>    
   </tbody>
 </table>
