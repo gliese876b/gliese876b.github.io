@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am currently an Assistant Professor at [İzmir University of Economics](https://www.ieu.edu.tr/en). I worked a post doctoral researcher in the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/people/) at the University of Edinburgh between August 2024 and July 2025.
 
-I have received my B.S., M.S. and Ph.D. degrees from [the Department of Computer Engineering at Middle East Technical University]([https://www.ieu.edu.tr/en](https://ceng.metu.edu.tr/)), in 2014, 2016 and 2019, respectively. During my graduate years, I have worked as a Teaching Assistant in the same department and studied Reinforcement Learning, and Fully and Partially Observable Markov Decision Processes.
+I have received my B.S., M.S. and Ph.D. degrees from the [Department of Computer Engineering at Middle East Technical University](https://ceng.metu.edu.tr/), in 2014, 2016 and 2019, respectively. During my graduate years, I have worked as a Teaching Assistant in the same department and studied Reinforcement Learning, and Fully and Partially Observable Markov Decision Processes.
 
 ## News
 - **[Jan 2026]** Our study titled as "Reinforcement Learning for Autoscaling in Cloud Environments: A Case Study from Industry" is published in IEEE Xplore.
