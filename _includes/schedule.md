@@ -32,7 +32,7 @@
       <td style="border:1px solid #ddd; padding:6px;">10:20 - 11:05</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;">CE112</td>
       <td style="border:1px solid #ddd; padding:6px;">Berkay Arda (MSc)</td>
     </tr>
@@ -40,7 +40,7 @@
       <td style="border:1px solid #ddd; padding:6px;">11:15 - 12:00</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
