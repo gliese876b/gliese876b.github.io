@@ -34,7 +34,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">CE112</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Berkay Arda (MSc)</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">11:15 - 12:00</td>
@@ -66,7 +66,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Berkay Eren (MSc)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">14:55 - 15:40</td>
