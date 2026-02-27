@@ -58,7 +58,7 @@
       <td style="border:1px solid #ddd; padding:6px;">Tural Haciyev (MSc)</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">FENG 498 Meeting</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">14:00 - 14:45</td>
