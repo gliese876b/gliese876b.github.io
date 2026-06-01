@@ -9,6 +9,7 @@ https://edinburgh-rl.github.io/) at the University of Edinburgh between August 2
 I have received my B.S., M.S. and Ph.D. degrees from the [Department of Computer Engineering at Middle East Technical University](https://ceng.metu.edu.tr/), in 2014, 2016 and 2019, respectively. During my graduate years, I have worked as a Teaching Assistant in the same department and studied Reinforcement Learning, and Fully and Partially Observable Markov Decision Processes.
 
 ## News
+- **[June 2026]** Our study titled as "Fairness over Equality: Correcting Social Incentives in Asymmetric Sequential Social Dilemmas" is published in AAMAS 2026 proceedings.
 - **[Jan 2026]** Our study titled as "Reinforcement Learning for Autoscaling in Cloud Environments: A Case Study from Industry" is published in IEEE Xplore.
 - **[Jan 2026]** Our study titled as "Multi-Dimensional Autoscaling in Microservices Using Reinforcement Learning" is published in IEEE Xplore.
 - **[May 2025]** Our study using RL to solve voltage issues in distribution networks is published online.
