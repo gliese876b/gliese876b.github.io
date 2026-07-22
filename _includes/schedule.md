@@ -17,29 +17,29 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
-      <td style="border:1px solid #ddd; padding:6px;">SE116(L)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">09:25 - 10:10</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
-      <td style="border:1px solid #ddd; padding:6px;">SE116(L)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">10:20 - 11:05</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
-      <td style="border:1px solid #ddd; padding:6px;">CE112</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Berkay Arda (MSc)</td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">11:15 - 12:00</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">FENG498 Meeting</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
@@ -56,9 +56,9 @@
       <td style="border:1px solid #ddd; padding:6px;">13:05 - 13:50</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Tural Haciyev (MSc)</td>
-      <td style="border:1px solid #ddd; padding:6px;">FENG 498 Meeting</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">FENG 498 Meeting</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">14:00 - 14:45</td>
@@ -72,7 +72,7 @@
       <td style="border:1px solid #ddd; padding:6px;">14:55 - 15:40</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">SE116</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
@@ -80,7 +80,7 @@
       <td style="border:1px solid #ddd; padding:6px;">15:50 - 16:35</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">SE116</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
@@ -98,7 +98,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">CE533</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>    
   </tbody>
 </table>
