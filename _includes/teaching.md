@@ -1,6 +1,6 @@
 ## Teaching
 
-<h4 style="margin:0 10px 0;">Courses</h4>
+<h4 style="margin:0 10px 0;">Courses at IUE</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://se.ieu.edu.tr/en/syllabus/type/read/id/SE+113"><autocolor>SE 113 - Introduction to Programming (2020-2021)</autocolor></a></li>
