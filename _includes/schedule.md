@@ -23,7 +23,7 @@
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">09:45 - 10:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
