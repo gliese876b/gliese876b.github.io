@@ -23,7 +23,7 @@
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">09:45 - 10:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
@@ -31,7 +31,7 @@
     <tr>
       <td style="border:1px solid #ddd; padding:6px;">10:45 - 11:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;">Berkay Arda (MSc)</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
@@ -40,7 +40,7 @@
       <td style="border:1px solid #ddd; padding:6px;">11:45 - 12:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
     </tr>
