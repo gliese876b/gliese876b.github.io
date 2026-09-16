@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">08:30 - 09:15</td>
+      <td style="border:1px solid #ddd; padding:6px;">08:45 - 09:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
@@ -21,47 +21,55 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">09:25 - 10:10</td>
+      <td style="border:1px solid #ddd; padding:6px;">09:45 - 10:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">10:20 - 11:05</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">10:45 - 11:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Berkay Arda (MSc)</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">11:15 - 12:00</td>
+      <td style="border:1px solid #ddd; padding:6px;">11:45 - 12:30</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:6px;">13:30 - 14:15</td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG211</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">12:10 - 12:55</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ddd; padding:6px;">13:05 - 13:50</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">14:30 - 15:15</td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG211</td>
       <td style="border:1px solid #ddd; padding:6px;">Tural Haciyev (MSc)</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">14:00 - 14:45</td>
+      <td style="border:1px solid #ddd; padding:6px;">15:30 - 16:15</td>
+      <td style="border:1px solid #ddd; padding:6px;">CENG211</td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:6px;">16:30 - 17:15</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
@@ -69,7 +77,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">14:55 - 15:40</td>
+      <td style="border:1px solid #ddd; padding:6px;">17:30 - 18:15</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
@@ -77,28 +85,12 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:6px;">15:50 - 16:35</td>
+      <td style="border:1px solid #ddd; padding:6px;">18:30 - 19:15</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ddd; padding:6px;">16:45 - 17:30</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #ddd; padding:6px;">18:35 - 21:10</td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
-    </tr>    
+    </tr>   
   </tbody>
 </table>
