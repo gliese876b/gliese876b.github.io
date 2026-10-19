@@ -25,7 +25,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Senior Design Project Meeting</td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
     </tr>
     <tr>
@@ -33,7 +33,7 @@
       <td style="border:1px solid #ddd; padding:6px;"></td>
       <td style="border:1px solid #ddd; padding:6px;">Office Hour</td>
       <td style="border:1px solid #ddd; padding:6px;"></td>
-      <td style="border:1px solid #ddd; padding:6px;"></td>
+      <td style="border:1px solid #ddd; padding:6px;">Senior Design Project Meeting</td>
       <td style="border:1px solid #ddd; padding:6px;">CENG567</td>
     </tr>
     <tr>
