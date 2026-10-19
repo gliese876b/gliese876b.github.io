@@ -1,5 +1,12 @@
 ## Teaching
 
+<h4 style="margin:0 10px 0;">Courses at IZTECH</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://ceng.iyte.edu.tr/courses/ceng-211/"><autocolor>CENG 211 - Programming Fundamentals (2026-2027)</autocolor></a></li>
+  <li><a href="https://ceng.iyte.edu.tr/courses/ceng-567/"><autocolor>CENG 567- Reinforcement Learning (2026-2027)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Courses at IUE</h4>
 
 <ul style="margin:0 0 5px;">
